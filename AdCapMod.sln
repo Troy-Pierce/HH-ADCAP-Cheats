@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdCapMod", "AdCapMod\AdCapMod.csproj", "{A12015AD-9762-440E-B461-E5389B697D42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A12015AD-9762-440E-B461-E5389B697D42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A12015AD-9762-440E-B461-E5389B697D42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A12015AD-9762-440E-B461-E5389B697D42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A12015AD-9762-440E-B461-E5389B697D42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {871F0EB3-D5A0-426E-BBB6-81F7E5E3A70F}
+	EndGlobalSection
+EndGlobal
